@@ -57,6 +57,6 @@ O banco de dados relacional foi estruturado para dissociar a vaga física do mot
 - **Papel da Inteligência Artificial:** A IA foi direcionada para a função estrutural de previsão e proteção de demanda energética em malha preditiva, mitigando o risco de colapso elétrico e penalidades regulatórias.
 
 ##6. Integrantes
-Pietra Fanticelli- RM573229
-Ellen Kauane Rodrigues Alves - 570885
-Marcos 
+- Pietra Fanticelli- RM573229
+- Ellen Kauane Rodrigues Alves - RM570885
+- Marcos Junio Benevenuto Silva - RM570834
