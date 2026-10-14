@@ -55,3 +55,8 @@ O banco de dados relacional foi estruturado para dissociar a vaga física do mot
 
 - **Cobrança Integrada ao Condomínio:** Tendo em vista que o carregador físico GoodWe HCA G2 não possui leitor bancário direto (maquininha de cartão) integrado, a cobrança é apurada por relatório e incorporada à cobrança condominial mensal, garantindo conformidade jurídica e facilidade de gestão.
 - **Papel da Inteligência Artificial:** A IA foi direcionada para a função estrutural de previsão e proteção de demanda energética em malha preditiva, mitigando o risco de colapso elétrico e penalidades regulatórias.
+
+##6. Integrantes
+Pietra Fanticelli- RM573229
+Ellen Kauane Rodrigues Alves - 570885
+Marcos 
